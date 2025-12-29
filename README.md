@@ -1,5 +1,3 @@
-# jhlee-project.github.io
-
 # Juhee Lee
 재현 데이터 · R 패키지 개발
 
