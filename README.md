@@ -17,7 +17,7 @@
 
 ### LARisk
 - 생애암기여도 계산을 위한 R 패키지
-- 초기 개발 및 Maintainer 담당 (인수인계 예정) 
+- 초기 개발 및 Maintainer 담당
 - https://CRAN.R-project.org/package=LARisk
 
 
@@ -29,10 +29,10 @@
 
 ---
 ## Publications
-- *Lee, J.*,  Kim, H. J., Murray, J. S., and Kim, Y-M. (2026+). "synMicrodata: An R-Package for Generating Synthetic Microdata via a Nonparametric Bayesian Approach". Revision submitted.
+- **Lee, J.**,  Kim, H. J., Murray, J. S., and Kim, Y-M. (2026). "synMicrodata: An R-Package for Generating Synthetic Microdata via a Nonparametric Bayesian Approach". SoftwareX 34. 
 - 안성빈, 트랑 도안, *이주희*, 김지우, 김용재, 김윤지, 윤창원, 정성규, 김동하, 권성훈, 김항준, 안정연, 박철우 (2023) "유용성과 노출위험성 지표를 이용한 재현자료 기법 비교 연구". 응용통계연구 36(2), 141-166.
 - Kim, R-K., Kim, Y-M., Lee, W-J., Im, J., **Lee, J.**, Bang, Y-J., and Cha, E-H. (2022). "Data integration of National Dose Registry and survey data using multivariate imputation by chained equations".  PLOS ONE, https://doi.org/10.1371/journal.pone.0261534
-- *Lee, J*. and Kim, Y-M. (2021). "Generalized nonlinear percentile regression using asymmetric maximum likelihood estimation". Communications for Statistical Applications and Methods, 28, 627-641.
+- **Lee, J**. and Kim, Y-M. (2021). "Generalized nonlinear percentile regression using asymmetric maximum likelihood estimation". Communications for Statistical Applications and Methods, 28, 627-641.
 
 ---
 ## Contact
