@@ -30,6 +30,7 @@
 
 ---
 ## Publications
+- **Lee, J.**, Shin, H., Yoon, S., Park, S., and Kim, Y-M. (2026). "A study on synthetic data generation methods preserving statistical relationships in public data". The Korean Data & Information Science Society, 37(5), 891-907.
 - **Lee, J.**,  Kim, H. J., Murray, J. S., and Kim, Y-M. (2026). "synMicrodata: An R-Package for Generating Synthetic Microdata via a Nonparametric Bayesian Approach". SoftwareX 34. 
 - 안성빈, 트랑 도안, *이주희*, 김지우, 김용재, 김윤지, 윤창원, 정성규, 김동하, 권성훈, 김항준, 안정연, 박철우 (2023) "유용성과 노출위험성 지표를 이용한 재현자료 기법 비교 연구". 응용통계연구 36(2), 141-166.
 - Kim, R-K., Kim, Y-M., Lee, W-J., Im, J., **Lee, J.**, Bang, Y-J., and Cha, E-H. (2022). "Data integration of National Dose Registry and survey data using multivariate imputation by chained equations".  PLOS ONE, https://doi.org/10.1371/journal.pone.0261534
